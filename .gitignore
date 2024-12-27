@@ -1,0 +1,9 @@
+*.o
+.vscode/
+test/
+*.txt
+minishell
+libft/libft.a
+libft/libft.h.gch
+test_file
+test_output
